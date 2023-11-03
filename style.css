@@ -1,0 +1,31 @@
+*{
+	margin:0;
+	padding:0;
+	background-color: purple;
+}
+
+p{
+	background-color: grey;
+	border: solid 2px green;
+}
+
+.premier{
+
+	height: 100px;
+	padding:20px;
+	margin:0px;
+}
+
+.second{
+
+	width: 50%;
+	padding:1.2em;
+	margin: 20px 5px 20px 5px;
+}
+
+.troisieme{
+	width: 200px;
+	height: 200px;
+	padding:-30px;
+	margin: auto;
+}
